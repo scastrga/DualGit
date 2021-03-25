@@ -10,7 +10,7 @@ public class AppMain {
 
 	public static void main(String[] args) {
 		// Mensaje
-		System.out.println("Hola dual buenas tardes");
+		System.out.println("Hola Samuel :D");
 
 	}
 
